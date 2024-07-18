@@ -11,6 +11,13 @@
   <h3 align="center">Quadruped Robot</h3>
 
   <p align="center">
+    <p align="center" float="left">
+<table>
+  <tr>
+    <!-- front -->
+    <td><img src="https://github.com/Anshullanjewar/Quadruped-Robot/blob/main/Quad%20Img/IMG_20230624_031603.jpg" width="1080" height="800"></td>
+  </tr>
+ </table>
 This is a quadruped robot, that is self-directed using sensors and camera.!!    <br />
     <a href="https://github.com/Anshullanjewar/Quadruped-Robot"><strong>Explore the docs »</strong></a>
     <br />
@@ -22,13 +29,6 @@ This is a quadruped robot, that is self-directed using sensors and camera.!!    
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<p align="center" float="left">
-<table>
-  <tr>
-    <!-- front -->
-    <td><img src="https://github.com/Anshullanjewar/Quadruped-Robot/blob/main/Quad%20Img/IMG_20230624_031603.jpg" width="1080" height="500"></td>
-  </tr>
- </table>
 
 ### Arduino Quadruped Robot with Vision and Obstacle Avoidance
 This repository showcases a quadruped robot built with an Arduino UNO, MG-996R servo motors, a PCA9685 servo driver, ultrasonic sensors for obstacle avoidance, and an ESP32-Cam for vision capabilities. The robot is powered by a LiPo battery.
