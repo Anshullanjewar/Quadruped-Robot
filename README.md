@@ -15,7 +15,7 @@
 <table>
   <tr>
     <!-- front -->
-    <td><img src="https://github.com/Anshullanjewar/Quadruped-Robot/blob/main/Quad%20Img/IMG_20230624_031603.jpg" width="1080" height="800"></td>
+    <td><img src="https://github.com/Anshullanjewar/Quadruped-Robot/blob/main/Quad%20Img/IMG_20230624_031603.jpg" width="1080" height="650"></td>
   </tr>
  </table>
 This is a quadruped robot, that is self-directed using sensors and camera.!!    <br />
