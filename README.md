@@ -56,9 +56,9 @@ The model was then found to be a structural fault and had an imbalance weight di
 <table>
   <tr>
     <!-- designs -->
-    <td><img src="https://github.com/Anshullanjewar/Quadruped-Robot/blob/main/Quad%20Img/Screenshot%20(165).png" width="1080" height="500"></td>
-        <td><img src="https://github.com/Anshullanjewar/Quadruped-Robot/blob/main/Quad%20Img/Screenshot%20(163).png" width="1080" height="500"></td>
-    <td><img src="https://github.com/Anshullanjewar/Quadruped-Robot/blob/main/Quad%20Img/Screenshot%20(162).png" width="1080" height="500"></td>
+    <td><img src="https://github.com/Anshullanjewar/Quadruped-Robot/blob/main/Quad%20Img/Screenshot%20(165).png" width="1080"></td>
+        <td><img src="https://github.com/Anshullanjewar/Quadruped-Robot/blob/main/Quad%20Img/Screenshot%20(163).png" width="1080"></td>
+    <td><img src="https://github.com/Anshullanjewar/Quadruped-Robot/blob/main/Quad%20Img/Screenshot%20(162).png" width="1080"></td>
 
   </tr>
  </table>
