@@ -90,7 +90,7 @@ The model was then found to be a structural fault and had an imbalance weight di
 <table>
   <tr>
     <!-- final -->
-    <td><img src="https://github.com/Anshullanjewar/Quadruped-Robot/blob/main/Quad%20Img/IMG_20230624_031603.jpg" width="1080" height="500"></td>
+    <td><img src="https://github.com/Anshullanjewar/Quadruped-Robot/blob/main/Quad%20Img/IMG_20230624_031603.jpg" width="1080" height="650"></td>
   </tr>
  </table>
 
